@@ -68,16 +68,16 @@
 
 ```typescript
   
-  private class Developer {
+private class Developer {
     
-  }
+}
   
-  export class Cote extends Developer {
-    constructor(){}
+export class Cote extends Developer {
+  constructor(){}
     
-  }
+}
   
-  ```
+```
 
 </details>
 
