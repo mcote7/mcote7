@@ -5,11 +5,11 @@
 ## 🌎 Hello World
 > ### I'm Michael, a software developer.
 ## 🎯 I am currently focused on &nbsp;&rarr;
-> &bull;&nbsp;Angular<br>
-> &bull;&nbsp;TypeScript<br>
-> &bull;&nbsp;SASS<br>
-> &bull;&nbsp;JavaScript<br>
-> &bull;&nbsp;Web Design<br>
+> &bull;&nbsp;&Topf;ype&Sopf;cri&popf;t<br>
+>> &bull;&nbsp;&Aopf;ng&uopf;lar<br>
+>>> &bull;&nbsp;&Fopf;ire&bopf;ase<br>
+>>>> &bull;&nbsp;&Sopf;ass<br>
+>>>>> &bull;&nbsp;&Wopf;eb &Dopf;esi&gopf;n<br>
 #
 > 🚀 &nbsp; https://mcote7.github.io/michael-cote-profile-2020/
 <hr>
