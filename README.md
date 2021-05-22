@@ -4,12 +4,12 @@
 ### <code>🌎 Hello World&nbsp;</code>
 > ## I'm Michael, a software developer.
 ---
-### <code>🎯 I am currently focused on&nbsp;&rarr;&nbsp;</code>
-> &bull;&nbsp;&Topf;ype&Sopf;cript<br>
->> &bull;&nbsp;&Aopf;ng&uopf;lar<br>
->>> &bull;&nbsp;&Sopf;ass<br>
->>>> &bull;&nbsp;&Fopf;ire&bopf;ase<br>
->>>>> &bull;&nbsp;&Wopf;eb &Dopf;esi&gopf;n<br>
+### <code>🎯 I am currently focused on&nbsp;...&nbsp;</code>
+> ### &bull;&nbsp;&Topf;ype&Sopf;cript<br>
+>> ### &bull;&nbsp;&Aopf;ng&uopf;lar<br>
+>>> ### &bull;&nbsp;&Sopf;ass<br>
+>>>> ### &bull;&nbsp;&Fopf;ire&bopf;ase<br>
+>>>>> ### &bull;&nbsp;&Wopf;eb &Dopf;esi&gopf;n<br>
 ##
 > #### <code>🚀&nbsp;https://mcote7.github.io/michael-cote-profile-2020/&nbsp;</code> 
 <hr>
