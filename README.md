@@ -54,5 +54,5 @@
   "date": "June 2020"
 }
 ```
-  
+
 </details>
