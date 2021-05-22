@@ -13,6 +13,9 @@
 ##
 > #### <code>🚀&nbsp;https://mcote7.github.io/michael-cote-profile-2020/&nbsp;</code> 
 <hr>
+
+#
+
 <details>
 <summary>&nbsp;📜&nbsp;&nbsp;&nbsp;Certifications</summary>
 <br>
@@ -56,12 +59,14 @@
 ```
 
 </details>
-<hr>
+
+#
+
 <details>
 <summary>&nbsp;👨‍💻&nbsp;&nbsp;&nbsp;Class</summary>
 <br>
 
-  ```typescript
+```typescript
   
   private class Developer {
     
@@ -75,3 +80,5 @@
   ```
 
 </details>
+
+#
