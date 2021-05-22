@@ -10,10 +10,8 @@
 > &bull;&nbsp;SASS<br>
 > &bull;&nbsp;JavaScript<br>
 > &bull;&nbsp;Web Design<br>
-<hr>
-
+#
 > 🚀 &nbsp; https://mcote7.github.io/michael-cote-profile-2020/
-
 <hr>
 
 
