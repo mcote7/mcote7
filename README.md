@@ -3,7 +3,7 @@
 <img src="ai-orb-transparent.gif" alt="my" width="400" align="right"/>
 
 ## 🌎 Hello World
-> #### I'm Michael, a software developer.
+> ### I'm Michael, a software developer.
 ## 🎯 I am currently focused on &nbsp;&rarr;
 > &bull;&nbsp;Angular<br>
 > &bull;&nbsp;TypeScript<br>
