@@ -1,17 +1,18 @@
 <hr>
+<img src="ai-orb-transparent.gif" alt="my" width="400" align="right"/> 
 
-<img src="ai-orb-transparent.gif" alt="my" width="400" align="right"/>
-
-## 🌎 Hello World
-> ### I'm Michael, a software developer.
-## 🎯 I am currently focused on &nbsp;&rarr;
+### <code>🌎 Hello World</code>
+> ## I'm Michael, a software developer.
+---
+### <code>🎯 I am currently focused on&nbsp;&rarr;&nbsp;</code>
 > &bull;&nbsp;&Topf;ype&Sopf;cript<br>
 >> &bull;&nbsp;&Aopf;ng&uopf;lar<br>
 >>> &bull;&nbsp;&Sopf;ass<br>
 >>>> &bull;&nbsp;&Fopf;ire&bopf;ase<br>
 >>>>> &bull;&nbsp;&Wopf;eb &Dopf;esi&gopf;n<br>
-#
-> 🚀 &nbsp; https://mcote7.github.io/michael-cote-profile-2020/
+##
+> #### <code>🚀&nbsp;https://mcote7.github.io/michael-cote-profile-2020/&nbsp;</code> 
+  
 <hr>
 
 <details>
