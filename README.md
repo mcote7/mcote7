@@ -1,6 +1,8 @@
 <hr>
 
-> ### Hi there 👋
+<img src="ai-orb-transparent.gif" alt="my" width="400" align="right"/>
+
+> ###  Hi there
 #### I'm Michael, a software developer.
 ###### 🎯 I am currently focused on &nbsp;&rarr;
 > &bull;&nbsp;Angular<br>
@@ -9,7 +11,12 @@
 > &bull;&nbsp;JavaScript<br>
 > &bull;&nbsp;Web Design<br>
 <hr>
-https://mcote7.github.io/michael-cote-profile-2020/
+
+> 🚀 &nbsp; https://mcote7.github.io/michael-cote-profile-2020/
+
+<hr>
+
+
 
 <!--
 **mcote7/mcote7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
