@@ -14,19 +14,48 @@
 > 🚀 &nbsp; https://mcote7.github.io/michael-cote-profile-2020/
 <hr>
 
+<details>
 
+<summary> &nbsp; 📜 Certifications </summary>
 
-<!--
-**mcote7/mcote7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+  
+```json
+{
+  "certification": Design_thinking,
+  "institution": "Udemy",
+  "date": "May 2021"
+},
+{
+  "certification": SASS_workflow,
+  "institution": "Udemy",
+  "date": "May 2021"
+},
+{
+  "certification": Angular_4+,
+  "institution": "Code with Mosh",
+  "date": "April 2021"
+},
+{
+  "certification": JavaScript_es6,
+  "institution": "Udemy",
+  "date": "March 2021"
+},
+{
+  "certification": Redux_architecture,
+  "institution": "Code with Mosh",
+  "date": "July 2021"
+},
+{
+  "certification": React_library,
+  "institution": "Code with Mosh",
+  "date": "June 2020"
+},
+{
+  "certification": Full-stack_Web_development,
+  "institution": "Coding Dojo",
+  "date": "June 2020"
+}
+```
+  
+</details>
