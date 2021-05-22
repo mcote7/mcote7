@@ -1,7 +1,7 @@
 <hr>
 <img src="ai-orb-transparent.gif" alt="my" width="400" align="right"/> 
 
-### <code>🌎 Hello World</code>
+### <code>🌎 Hello World&nbsp;</code>
 > ## I'm Michael, a software developer.
 ---
 ### <code>🎯 I am currently focused on&nbsp;&rarr;&nbsp;</code>
@@ -12,15 +12,11 @@
 >>>>> &bull;&nbsp;&Wopf;eb &Dopf;esi&gopf;n<br>
 ##
 > #### <code>🚀&nbsp;https://mcote7.github.io/michael-cote-profile-2020/&nbsp;</code> 
-  
 <hr>
-
 <details>
-
-<summary> &nbsp; 📜 Certifications </summary>
-
+<summary>&nbsp;📜&nbsp;&nbsp;&nbsp;Certifications</summary>
 <br>
-  
+
 ```json
 {
   "certification": Design_thinking,
