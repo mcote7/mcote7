@@ -56,3 +56,22 @@
 ```
 
 </details>
+<hr>
+<details>
+<summary>&nbsp;👨‍💻&nbsp;&nbsp;&nbsp;Class</summary>
+<br>
+
+  ```typescript
+  
+  private class Developer {
+    
+  }
+  
+  export class Cote extends Developer {
+    constructor(){}
+    
+  }
+  
+  ```
+
+</details>
