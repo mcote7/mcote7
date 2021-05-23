@@ -22,6 +22,11 @@
 
 ```json
 {
+  "certification": TypeScript_basics,
+  "institution": "Ultimate Courses",
+  "date": "May 2021"
+},
+{
   "certification": Design_thinking,
   "institution": "Udemy",
   "date": "May 2021"
