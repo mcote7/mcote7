@@ -68,15 +68,48 @@
 
 ```typescript
   
-class {
-  private 
+interface SizesInterface {
+  availableSizes: string[];
 }
-  
-export class extends {
-  constructor(){}
-  
+abstract class Sizes implements SizesInterface {
+  constructor(protected sizes: string[]) {}
+  set availableSizes(sizes: string[]) {
+    this.sizes = sizes;
+  }
+  get availableSizes() {
+    return this.sizes
+  }
+} 
+interface PizzaInterface extends SizesInterface {
+  readonly name: string;
+  toppings: string[];
+  updateSizes(sizes: string[]): void;
+  addTopping(topping: string): void;
 }
-  
+export class Pizza extends Sizes implements PizzaInterface {
+  public name: string;
+  toppings: string[] = [];
+  constructor(readonly name: string, sizes: string[]){
+    super(sizes);  
+  }
+  public updateSizes(sizes: string[]) {
+    this.sizes = sizes;
+  }
+  public addTopping(topping: string) {
+    this.toppings.push(topping);
+  }
+}  
+const pizza = new Pizza('pepperoni', ['small','x-large']);
+pizza.addTopping('pepperoni');
+pizza.updateSizes(['large']); 
+class Coupon {
+  static allowed = ['pepperoni','large'];
+  static create(percentage: number) {
+    return `PIZZA_COUPON_${percentage}%_OFF`;
+  }
+}
+Coupon.create(25);
+
 ```
 
 </details>
