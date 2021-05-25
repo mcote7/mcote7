@@ -68,7 +68,7 @@
 #
 
 <details>
-<summary>&nbsp;👨‍💻&nbsp;&nbsp;&nbsp;Class</summary>
+<summary>&nbsp;🍕&nbsp;&nbsp;&nbsp;Class</summary>
 <br>
 
 ```typescript
