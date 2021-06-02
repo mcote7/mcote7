@@ -22,6 +22,11 @@
 
 ```json
 {
+  "certification": TypeScript_master_class,
+  "institution": "Ultimate Courses",
+  "date": "June 2021"
+},
+{
   "certification": TypeScript_basics,
   "institution": "Ultimate Courses",
   "date": "May 2021"
@@ -57,7 +62,7 @@
   "date": "June 2020"
 },
 {
-  "certification": Full-stack_Web_development,
+  "certification": Full-stack_web_development,
   "institution": "Coding Dojo",
   "date": "June 2020"
 }
