@@ -1,5 +1,4 @@
 <hr>
-<img src="ai-orb-transparent.gif" alt="my" width="400" align="right"/> 
 
 ### <code>🌎 Hello World&nbsp;</code>
 > ## I'm Michael, a software developer.
@@ -15,13 +14,19 @@
 <hr>
 
 <!--  -->
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mcote7&show_icons=true&theme=highcontrast)&nbsp;&nbsp;
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mcote7&layout=compact&theme=highcontrast)&nbsp;&nbsp;
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mcote7&layout=compact&theme=highcontrast)
+
+<br>
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=mcote7&show_icons=true&theme=highcontrast)
 
 <br>
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=mcote7.mcote7)&nbsp;&nbsp;
 [![Github](https://img.shields.io/github/followers/mcote7?label=Follow&style=social)](https://github.com/mcote7)&nbsp;&nbsp;
+<img src="ai-orb-transparent.gif" alt="my" width="30"/>&nbsp;
+<img src="ai-orb-transparent.gif" alt="my" width="30"/>&nbsp;
+<img src="ai-orb-transparent.gif" alt="my" width="30"/>&nbsp;
 
 #
 
