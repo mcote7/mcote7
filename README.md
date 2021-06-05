@@ -14,6 +14,15 @@
 > #### <code>🚀&nbsp;https://mcote7.github.io/michael-cote-profile/&nbsp;</code> 
 <hr>
 
+<!--  -->
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=mcote7&show_icons=true&theme=highcontrast)&nbsp;&nbsp;
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mcote7&layout=compact&theme=highcontrast)&nbsp;&nbsp;
+
+<br>
+
+![](https://visitor-badge.laobi.icu/badge?page_id=mcote7.mcote7)&nbsp;&nbsp;
+[![Github](https://img.shields.io/github/followers/mcote7?label=Follow&style=social)](https://github.com/mcote7)&nbsp;&nbsp;
+
 #
 
 <details>
