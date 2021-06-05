@@ -12,7 +12,10 @@
 >>>> ### &bull;&nbsp;&Fopf;ire&bopf;ase<br>
 >>>>> ### &bull;&nbsp;&Wopf;eb &Dopf;esi&gopf;n<br>
 ##
-> #### <code>🚀&nbsp;https://mcote7.github.io/michael-cote-profile/&nbsp;</code> 
+> #### <code>🚀&nbsp;https://mcote7.github.io/michael-cote-profile/&nbsp;</code>
+
+<img src="./guages.svg" alt="g" width="300"/>&nbsp;
+
 <hr>
 
 <!--  -->
