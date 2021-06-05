@@ -14,7 +14,7 @@
 ##
 > #### <code>🚀&nbsp;https://mcote7.github.io/michael-cote-profile/&nbsp;</code>
 
-<img src="./guages.svg" alt="g" width="300"/>&nbsp;
+<img src="guages.svg" alt="g" width="300"/>&nbsp;
 
 <hr>
 
