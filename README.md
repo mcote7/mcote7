@@ -13,8 +13,11 @@
 >>>>> ### &bull;&nbsp;&Wopf;eb &Dopf;esi&gopf;n<br>
 ##
 > #### <code>🚀&nbsp;https://mcote7.github.io/michael-cote-profile/&nbsp;</code>
+---
 
-<img src="guadges.svg" alt="guadges" width="300"/>&nbsp;
+<br>
+
+<img src="gauges.svg" alt="guadges" width="360"/>&nbsp;
 
 <hr>
 
