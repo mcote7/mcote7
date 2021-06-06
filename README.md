@@ -21,7 +21,6 @@
 
 <hr>
 
-<!--  -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mcote7&layout=compact&theme=highcontrast)
 
 <br>
@@ -143,3 +142,5 @@ Coupon.create(25);
 </details>
 
 #
+
+![stuff](https://github-profile-trophy.vercel.app/?username=mcote7&theme=darkhub&margin-w=10)
