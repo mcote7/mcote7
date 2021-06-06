@@ -14,7 +14,7 @@
 ##
 > #### <code>🚀&nbsp;https://mcote7.github.io/michael-cote-profile/&nbsp;</code>
 
-![guages](./guadges.svg)
+<img src="guadges.svg" alt="guadges" width="300"/>&nbsp;
 
 <hr>
 
@@ -23,7 +23,7 @@
 
 <br>
 
-![](https://visitor-badge.laobi.icu/badge?page_id=mcote7.mcote7)&nbsp;&nbsp;
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=mcote7.mcote7)&nbsp;&nbsp;
 [![Github](https://img.shields.io/github/followers/mcote7?label=Follow&style=social)](https://github.com/mcote7)&nbsp;&nbsp;
 <img src="ai-orb-transparent.gif" alt="my" width="30"/>&nbsp;
 <img src="ai-orb-transparent.gif" alt="my" width="30"/>&nbsp;
