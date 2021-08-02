@@ -188,6 +188,10 @@ Coupon.create(25);
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+TypeScript   2 hrs 53 mins   ████████████░░░░░░░░░░░░░   48.63 % 
+SCSS         1 hr 30 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.43 % 
+JSX          1 hr 27 mins    ██████░░░░░░░░░░░░░░░░░░░   24.48 % 
+JavaScript   3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.07 % 
+JSON         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
 ```
 <!--END_SECTION:waka-->
