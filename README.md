@@ -39,79 +39,85 @@
 
 ```json
 {
-  "certification": RxJS_masterclass,
+  "course": NgRx Store & Effects,
+  "institution": "Ultimate Courses",
+  "date": "August 2021",
+  "id": 15
+},
+{
+  "course": RxJS_masterclass,
   "institution": "Ultimate Courses",
   "date": "July 2021",
   "id": 14
 },
 {
-  "certification": JS_advanced,
+  "course": JS_advanced,
   "institution": "Udemy",
   "date": "July 2021",
   "id": 13
 },
 {
-  "certification": Ultimate_Angular,
+  "course": Ultimate_Angular,
   "institution": "Ultimate Courses",
   "date": "July 2021",
   "id": 12
 },
 {
-  "certification": UX_UI_design,
+  "course": UX_UI_design,
   "institution": "Udemy",
   "date": "July 2021",
   "id": 11
 },
 {
-  "certification": RxJS_basics,
+  "course": RxJS_basics,
   "institution": "Ultimate Courses",
   "date": "June 2021",
   "id": 10
 },
 {
-  "certification": TypeScript_master_class,
+  "course": TypeScript_master_class,
   "institution": "Ultimate Courses",
   "date": "June 2021",
   "id": 9
 },
 {
-  "certification": TypeScript_basics,
+  "course": TypeScript_basics,
   "institution": "Ultimate Courses",
   "date": "May 2021",
   "id": 8
 },
 {
-  "certification": Design_thinking,
+  "course": Design_thinking,
   "institution": "Udemy",
   "date": "May 2021",
   "id": 7
 },
 {
-  "certification": SASS_workflow,
+  "course": SASS_workflow,
   "institution": "Udemy",
   "date": "May 2021",
   "id": 6
 },
 {
-  "certification": Angular_4+,
+  "course": Angular_4+,
   "institution": "Code with Mosh",
   "date": "April 2021",
   "id": 5
 },
 {
-  "certification": JavaScript_es6,
+  "course": JavaScript_es6,
   "institution": "Udemy",
   "date": "March 2021",
   "id": 4
 },
 {
-  "certification": Redux_architecture,
+  "course": Redux_architecture,
   "institution": "Code with Mosh",
   "date": "July 2021",
   "id": 3
 },
 {
-  "certification": React_library,
+  "course": React_library,
   "institution": "Code with Mosh",
   "date": "June 2020",
   "id": 2
