@@ -39,7 +39,7 @@
 
 ```json
 {
-  "course": NgRx Store & Effects,
+  "course": NgRx_Store_&_Effects,
   "institution": "Ultimate Courses",
   "date": "August 2021",
   "id": 15
