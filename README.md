@@ -15,12 +15,6 @@
 > #### <code>🚀&nbsp;https://mcote7.github.io/michael-cote/&nbsp;</code>
 ---
 
-<br>
-
-<img src="gauges.svg" alt="guadges" width="360"/>&nbsp;
-
-<hr>
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mcote7&layout=compact&theme=react)
 
 <br>
