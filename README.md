@@ -188,7 +188,7 @@ Coupon.create(25);
 
 <!--START_SECTION:waka-->
 ```text
-Week: 13 August, 2021 - 19 August, 2021
+Week: 14 August, 2021 - 20 August, 2021
 
 TypeScript   6 hrs 5 mins    ████████████░░░░░░░░░░░░░   47.81 % 
 SCSS         4 hrs 21 mins   ████████▓░░░░░░░░░░░░░░░░   34.14 % 
