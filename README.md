@@ -188,12 +188,12 @@ Coupon.create(25);
 
 <!--START_SECTION:waka-->
 ```text
-Week: 31 August, 2021 - 06 September, 2021
+Week: 01 September, 2021 - 07 September, 2021
 
-TypeScript   14 hrs 15 mins  ██████████░░░░░░░░░░░░░░░   39.72 % 
-HTML         10 hrs 37 mins  ███████▒░░░░░░░░░░░░░░░░░   29.61 % 
-SCSS         10 hrs 5 mins   ███████░░░░░░░░░░░░░░░░░░   28.13 % 
-JSON         37 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.76 % 
-JSX          8 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
+TypeScript   15 hrs 18 mins  █████████▒░░░░░░░░░░░░░░░   37.96 % 
+SCSS         12 hrs 49 mins  ████████░░░░░░░░░░░░░░░░░   31.80 % 
+HTML         11 hrs 16 mins  ███████░░░░░░░░░░░░░░░░░░   27.98 % 
+JSON         37 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.56 % 
+JSX          8 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
 ```
 <!--END_SECTION:waka-->
