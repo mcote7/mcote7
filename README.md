@@ -188,6 +188,9 @@ Coupon.create(25);
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 12 September, 2021 - 18 September, 2021
+
+TypeScript   2 hrs 55 mins   █████████████████████░░░░   84.27 % 
+HTML         32 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.73 % 
 ```
 <!--END_SECTION:waka-->
