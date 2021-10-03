@@ -188,11 +188,10 @@ Coupon.create(25);
 
 <!--START_SECTION:waka-->
 ```text
-Week: 25 September, 2021 - 01 October, 2021
+Week: 26 September, 2021 - 02 October, 2021
 
-HTML         51 mins         ███████████████▓░░░░░░░░░   62.63 % 
-CSS          16 mins         █████░░░░░░░░░░░░░░░░░░░░   20.53 % 
-SCSS         8 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.81 % 
-TypeScript   4 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.03 % 
+HTML         51 mins         ███████████████████▓░░░░░   78.98 % 
+SCSS         8 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.33 % 
+TypeScript   5 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
 ```
 <!--END_SECTION:waka-->
