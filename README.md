@@ -188,8 +188,9 @@ Coupon.create(25);
 
 <!--START_SECTION:waka-->
 ```text
-Week: 29 September, 2021 - 05 October, 2021
+Week: 30 September, 2021 - 06 October, 2021
 
-
+HTML         10 mins         ███████████████████▓░░░░░   79.17 % 
+TypeScript   2 mins          ████▒░░░░░░░░░░░░░░░░░░░░   17.63 % 
 ```
 <!--END_SECTION:waka-->
