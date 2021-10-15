@@ -188,8 +188,6 @@ Coupon.create(25);
 
 <!--START_SECTION:waka-->
 ```text
-Week: 07 October, 2021 - 13 October, 2021
-
-
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
