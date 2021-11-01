@@ -188,6 +188,8 @@ Coupon.create(25);
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 25 October, 2021 - 31 October, 2021
+
+JavaScript   1 hr 2 mins     ████████████████████████▓   98.64 % 
 ```
 <!--END_SECTION:waka-->
