@@ -188,9 +188,6 @@ Coupon.create(25);
 
 <!--START_SECTION:waka-->
 ```text
-Week: 01 November, 2021 - 07 November, 2021
-
-JavaScript   1 hr 4 mins     ███████████████████████▓░   94.70 % 
-HTML         3 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.22 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
