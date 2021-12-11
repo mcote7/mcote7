@@ -188,6 +188,8 @@ Coupon.create(25);
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 04 December, 2021 - 10 December, 2021
+
+TypeScript   1 min           ████████████████████████▓   99.12 % 
 ```
 <!--END_SECTION:waka-->
