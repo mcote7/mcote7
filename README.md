@@ -188,8 +188,8 @@ Coupon.create(25);
 
 <!--START_SECTION:waka-->
 ```text
-Week: 10 December, 2021 - 16 December, 2021
+Week: 11 December, 2021 - 17 December, 2021
 
-TypeScript   1 min           ████████████████████████▓   99.12 % 
+
 ```
 <!--END_SECTION:waka-->
