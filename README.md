@@ -188,7 +188,7 @@ Coupon.create(25);
 
 <!--START_SECTION:waka-->
 ```text
-Week: 30 December, 2021 - 05 January, 2022
+Week: 31 December, 2021 - 06 January, 2022
 
 JavaScript   19 mins         █████████████████████████   100.00 % 
 ```
