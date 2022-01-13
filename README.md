@@ -188,9 +188,9 @@ Coupon.create(25);
 
 <!--START_SECTION:waka-->
 ```text
-Week: 05 January, 2022 - 11 January, 2022
+Week: 06 January, 2022 - 12 January, 2022
 
-JavaScript   42 mins         ██████████████████████░░░   87.47 % 
-SCSS         6 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.53 % 
+JavaScript   22 mins         ███████████████████▓░░░░░   78.71 % 
+SCSS         6 mins          █████▒░░░░░░░░░░░░░░░░░░░   21.29 % 
 ```
 <!--END_SECTION:waka-->
