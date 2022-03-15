@@ -189,7 +189,7 @@ Coupon.create(25);
 <!--START_SECTION:waka-->
 
 ```text
-From: 06 March 2022 - To: 13 March 2022
+From: 07 March 2022 - To: 14 March 2022
 
 JavaScript   10 hrs 35 mins  ███████████████████████░░   92.45 %
 CSS          25 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.69 %
