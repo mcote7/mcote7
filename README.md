@@ -189,9 +189,7 @@ Coupon.create(25);
 <!--START_SECTION:waka-->
 
 ```text
-From: 09 March 2022 - To: 16 March 2022
-
-JavaScript   1 hr 46 mins    █████████████████████████   100.00 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
