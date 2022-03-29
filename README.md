@@ -189,7 +189,7 @@ Coupon.create(25);
 <!--START_SECTION:waka-->
 
 ```text
-From: 20 March 2022 - To: 27 March 2022
+From: 21 March 2022 - To: 28 March 2022
 
 TypeScript   4 mins          ███████████████▒░░░░░░░░░   61.80 %
 JSON         2 mins          ████████▒░░░░░░░░░░░░░░░░   33.81 %
