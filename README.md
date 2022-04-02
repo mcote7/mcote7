@@ -189,12 +189,7 @@ Coupon.create(25);
 <!--START_SECTION:waka-->
 
 ```text
-From: 24 March 2022 - To: 31 March 2022
-
-TypeScript   4 mins          ███████████████▒░░░░░░░░░   61.80 %
-JSON         2 mins          ████████▒░░░░░░░░░░░░░░░░   33.81 %
-HTML         0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.79 %
-Other        0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.16 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
