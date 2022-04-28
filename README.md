@@ -189,7 +189,7 @@ Coupon.create(25);
 <!--START_SECTION:waka-->
 
 ```text
-From: 19 April 2022 - To: 26 April 2022
+From: 20 April 2022 - To: 27 April 2022
 
 SCSS   0 secs          █████████████████████████   100.00 %
 HTML   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
