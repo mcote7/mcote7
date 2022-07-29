@@ -189,10 +189,7 @@ Coupon.create(25);
 <!--START_SECTION:waka-->
 
 ```text
-From: 20 July 2022 - To: 27 July 2022
-
-SCSS         2 mins          ███████████████▒░░░░░░░░░   61.13 %
-TypeScript   1 min           █████████▓░░░░░░░░░░░░░░░   38.87 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
