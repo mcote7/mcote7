@@ -189,10 +189,7 @@ Coupon.create(25);
 <!--START_SECTION:waka-->
 
 ```text
-From: 28 October 2022 - To: 04 November 2022
-
-JavaScript   6 mins          █████████████████░░░░░░░░   68.13 %
-Other        2 mins          ████████░░░░░░░░░░░░░░░░░   31.87 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
