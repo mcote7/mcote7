@@ -189,14 +189,14 @@ Coupon.create(25);
 <!--START_SECTION:waka-->
 
 ```text
-From: 10 November 2022 - To: 17 November 2022
+From: 11 November 2022 - To: 18 November 2022
 
-TypeScript   3 hrs 31 mins   ████████████▒░░░░░░░░░░░░   49.51 %
-SCSS         1 hr 8 mins     ████░░░░░░░░░░░░░░░░░░░░░   16.07 %
-JSON         46 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.85 %
-JavaScript   35 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.38 %
-HTML         33 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.88 %
-CSS          13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.26 %
+TypeScript   3 hrs 34 mins   ████████████▓░░░░░░░░░░░░   50.12 %
+SCSS         1 hr 26 mins    █████░░░░░░░░░░░░░░░░░░░░   20.15 %
+JSON         39 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.30 %
+HTML         33 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.87 %
+JavaScript   22 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.32 %
+CSS          13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.27 %
 ```
 
 <!--END_SECTION:waka-->
