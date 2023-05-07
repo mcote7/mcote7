@@ -189,11 +189,10 @@ Coupon.create(25);
 <!--START_SECTION:waka-->
 
 ```text
-From: 28 April 2023 - To: 05 May 2023
+From: 29 April 2023 - To: 06 May 2023
 
-JavaScript   9 mins          ████████████████████████▓   99.30 %
-JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 %
-Python       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
+TypeScript   7 mins          ██████████████████▓░░░░░░   74.11 %
+JavaScript   2 mins          ██████▒░░░░░░░░░░░░░░░░░░   25.89 %
 ```
 
 <!--END_SECTION:waka-->
