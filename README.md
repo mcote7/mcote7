@@ -189,12 +189,12 @@ Coupon.create(25);
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 June 2023 - To: 08 June 2023
+From: 02 June 2023 - To: 09 June 2023
 
-JavaScript   33 mins         ███████████████░░░░░░░░░░   60.41 %
-TypeScript   21 mins         █████████▓░░░░░░░░░░░░░░░   38.75 %
-JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 %
-HTML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 %
+JavaScript   33 mins         █████████████████████▓░░░   86.99 %
+TypeScript   4 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.79 %
+JSON         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.69 %
+HTML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 %
 ```
 
 <!--END_SECTION:waka-->
