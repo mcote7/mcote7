@@ -189,7 +189,7 @@ Coupon.create(25);
 <!--START_SECTION:waka-->
 
 ```txt
-From: 08 June 2023 - To: 15 June 2023
+From: 09 June 2023 - To: 16 June 2023
 
 TypeScript   15 mins         ██████████████▓░░░░░░░░░░   58.81 %
 HTML         8 mins          ████████▒░░░░░░░░░░░░░░░░   33.49 %
