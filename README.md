@@ -189,7 +189,7 @@ Coupon.create(25);
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 July 2023 - To: 16 July 2023
+From: 10 July 2023 - To: 17 July 2023
 
 TypeScript   8 hrs 46 mins   ██████████████████████▓░░   91.13 %
 JavaScript   49 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.62 %
