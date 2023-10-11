@@ -189,7 +189,7 @@ Coupon.create(25);
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 October 2023 - To: 09 October 2023
+From: 03 October 2023 - To: 10 October 2023
 
 JSON             1 min           █████████░░░░░░░░░░░░░░░░   35.94 %
 JavaScript       1 min           ████████▓░░░░░░░░░░░░░░░░   34.54 %
