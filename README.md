@@ -189,10 +189,9 @@ Coupon.create(25);
 <!--START_SECTION:waka-->
 
 ```txt
-From: 08 October 2023 - To: 15 October 2023
+From: 09 October 2023 - To: 16 October 2023
 
-JSON   0 secs          ███████████████████░░░░░░   76.16 %
-XML    0 secs          ██████░░░░░░░░░░░░░░░░░░░   23.84 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
