@@ -189,10 +189,11 @@ Coupon.create(25);
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 January 2024 - To: 31 January 2024
+From: 25 January 2024 - To: 01 February 2024
 
-TypeScript   54 mins         █████████████████▓░░░░░░░   70.98 %
-HTML         22 mins         ███████▒░░░░░░░░░░░░░░░░░   29.02 %
+TypeScript   49 mins         ███████████▓░░░░░░░░░░░░░   46.09 %
+JSON         35 mins         ████████▒░░░░░░░░░░░░░░░░   33.27 %
+HTML         22 mins         █████░░░░░░░░░░░░░░░░░░░░   20.63 %
 ```
 
 <!--END_SECTION:waka-->
