@@ -189,7 +189,7 @@ Coupon.create(25);
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 February 2024 - To: 11 February 2024
+From: 05 February 2024 - To: 12 February 2024
 
 SCSS   0 secs          ██████████████░░░░░░░░░░░   56.45 %
 JSON   0 secs          ███████████░░░░░░░░░░░░░░   43.55 %
