@@ -189,7 +189,7 @@ Coupon.create(25);
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 January 2025 - To: 06 February 2025
+From: 31 January 2025 - To: 07 February 2025
 
 No activity tracked
 ```
