@@ -189,13 +189,13 @@ Coupon.create(25);
 <!--START_SECTION:waka-->
 
 ```txt
-From: 21 March 2025 - To: 28 March 2025
+From: 22 March 2025 - To: 29 March 2025
 
-JSON         1 hr 3 mins     █████████████████████░░░░   84.18 %
-TSConfig     10 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.82 %
-Git          0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.12 %
-TypeScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 %
-HTML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 %
+TypeScript   1 hr 5 mins     ███████████▓░░░░░░░░░░░░░   46.64 %
+JSON         1 hr 3 mins     ███████████▒░░░░░░░░░░░░░   45.12 %
+TSConfig     10 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.40 %
+Git          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 %
+HTML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
 ```
 
 <!--END_SECTION:waka-->
