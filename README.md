@@ -189,11 +189,10 @@ Coupon.create(25);
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 April 2025 - To: 10 April 2025
+From: 04 April 2025 - To: 11 April 2025
 
-TypeScript   9 mins          ███████████████░░░░░░░░░░   59.53 %
-JSON         6 mins          ██████████░░░░░░░░░░░░░░░   40.38 %
-HTML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
+TypeScript   9 mins          █████████████████████████   99.84 %
+HTML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
 ```
 
 <!--END_SECTION:waka-->
