@@ -12,7 +12,7 @@
 >>>> ### &bull;&nbsp;&Fopf;ire&bopf;ase<br>
 >>>>> ### &bull;&nbsp;&Wopf;eb &Dopf;esi&gopf;n<br>
 ##
-> #### <code>🚀&nbsp;https://mcote7.github.io/michael-cote/&nbsp;</code>
+
 ---
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mcote7&layout=compact&theme=react)
